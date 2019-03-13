@@ -1,14 +1,14 @@
 {
-  "main.css": "/my-app/static/css/main.363f715a.chunk.css",
-  "main.js": "/my-app/static/js/main.050a00d3.chunk.js",
-  "main.js.map": "/my-app/static/js/main.050a00d3.chunk.js.map",
+  "main.css": "/my-app/static/css/main.a8764409.chunk.css",
+  "main.js": "/my-app/static/js/main.caff984f.chunk.js",
+  "main.js.map": "/my-app/static/js/main.caff984f.chunk.js.map",
   "runtime~main.js": "/my-app/static/js/runtime~main.1cff5780.js",
   "runtime~main.js.map": "/my-app/static/js/runtime~main.1cff5780.js.map",
-  "static/js/2.84f5d0cf.chunk.js": "/my-app/static/js/2.84f5d0cf.chunk.js",
-  "static/js/2.84f5d0cf.chunk.js.map": "/my-app/static/js/2.84f5d0cf.chunk.js.map",
+  "static/js/2.1e9ffc39.chunk.js": "/my-app/static/js/2.1e9ffc39.chunk.js",
+  "static/js/2.1e9ffc39.chunk.js.map": "/my-app/static/js/2.1e9ffc39.chunk.js.map",
   "index.html": "/my-app/index.html",
-  "precache-manifest.9b0ea5646bf6107ce32d4bf405a0fc72.js": "/my-app/precache-manifest.9b0ea5646bf6107ce32d4bf405a0fc72.js",
+  "precache-manifest.78762493075cbad13af6d38997681fdf.js": "/my-app/precache-manifest.78762493075cbad13af6d38997681fdf.js",
   "service-worker.js": "/my-app/service-worker.js",
-  "static/css/main.363f715a.chunk.css.map": "/my-app/static/css/main.363f715a.chunk.css.map",
-  "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+  "static/css/main.a8764409.chunk.css.map": "/my-app/static/css/main.a8764409.chunk.css.map",
+  "static/media/pinvent-logo.png": "/my-app/static/media/pinvent-logo.d787ca74.png"
 }
